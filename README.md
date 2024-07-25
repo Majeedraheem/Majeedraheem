@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Majeed ! 👋
 
-I am passionate about data analysis and leveraging data to derive meaningful insights. Feel free to explore some of my projects below!
+I am passionate about data analysis and leveraging data to derive meaningful insights. Feel free to explore some of my projects!
 
 ## Skills:
 - Data Analysis
