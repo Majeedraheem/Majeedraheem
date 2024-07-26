@@ -19,5 +19,7 @@
 
 
 **Contact Information**
+
 - 📧 Email: majeedraheem@gmail.com
+- 
 - 💼 LinkedIn: www.linkedin.com/in/abdulmajeed-abdulraheem
