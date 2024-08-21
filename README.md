@@ -8,18 +8,18 @@
 
 ## Skills:
 
-![Python](https://example.com/python-icon.png) Python, ![R](images/r-icon.png) R, ![SQL](images/sql-icon.png) SQL
-📈 Data Visualization (Matplotlib, Seaborn)
+🐍 Python, 📊 R, 💾 SQL
+
+📈 Data Visualization (Matplotlib, Seaborn, Tableau)
 
 🤖 Machine Learning (Scikit-Learn, TensorFlow)
 
 🌐 Web Scraping and Data Cleaning
 
 ## Projects:
-
+  Check my repositories github
 
 **Contact Information**
 
 - 📧 Email: majeedraheem@gmail.com
-- 
 - 💼 LinkedIn: www.linkedin.com/in/abdulmajeed-abdulraheem
